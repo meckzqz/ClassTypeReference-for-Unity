@@ -15,7 +15,6 @@
     "overrideReferences": true,
     "precompiledReferences": [
         "UnityEngineInternals.dll",
-        "TypeReference_System.Memory.dll",
         "TypeReference_System.Runtime.CompilerServices.Unsafe.dll"
     ],
     "autoReferenced": true,
